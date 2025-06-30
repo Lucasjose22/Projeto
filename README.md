@@ -1,3 +1,5 @@
+
+# Equipe: José Lucas Herminio Paulo Leite
 # Padrões de Projeto Utilizados
 
 ## 1. FACTORY METHOD PATTERN
@@ -72,3 +74,7 @@
 | R10       | Histórico de operações e logs no sistema            | Sistema Principal    |
 
 ---
+
+
+
+![Diagrama](diagrama1.png)
